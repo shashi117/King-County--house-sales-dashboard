@@ -1,1 +1,2 @@
 # King-County--house-sales-dashboard
+This Tableau dashboard provides insights into the King County, Washington House Sales dataset. You can use this dashboard to explore various aspects of house sales in the King County area, including pricing trends, property features, and geographical distribution.![Screenshot (15)](https://github.com/shashi117/King-County--house-sales-dashboard/assets/66508441/8a6f6322-453d-47ab-ac2f-2a5d1887b91e)
